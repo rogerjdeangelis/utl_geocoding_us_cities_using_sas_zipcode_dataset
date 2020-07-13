@@ -7,7 +7,18 @@ Geocoding US cities using sas zipcode dataset
     see
     https://goo.gl/wkovR9
     https://communities.sas.com/t5/SAS-Procedures/Proc-geocode-issues/m-p/416702
-
+    
+    Free Geocoding 
+    
+    Texas A@M                                                                          
+    http://geoservices.tamu.edu/Services/Geocode/BatchProcess/OverviewHowData.aspx     
+                                                                                   
+    UCLA Web Geocoder                                                                 
+    https://gis.ucla.edu/geocoder                                                      
+                                                                                   
+    github
+    https://tinyurl.com/yd9c7l94
+    https://github.com/rogerjdeangelis/utl_geocode_and_reverse_geocode_netherland_addresses_and_latitudes_longitudes
 
     INPUT
     =====
